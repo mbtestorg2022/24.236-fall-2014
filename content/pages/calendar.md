@@ -4,34 +4,369 @@ title: Calendar
 uid: 23decd5e-1a03-e765-8110-bd1d7b00ced7
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**I. What, if anything, is race?**{{< /td-colspan >}} |||
-| 2 | A Tiny Slice of the History of the Concept of Race | &nbsp; |
-| 3 | "Our" Concept of Race | Response paper due |
-| 4 |  {{< br >}}{{< br >}} Race Eliminativism {{< br >}}{{< br >}} Screening: _[RACE - The Power of an Illusion, Ep. 1: The Difference Between Us](http://www.pbs.org/race/000_About/002_04-about-01.htm)_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003. {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Appiah and the Meaning of ‘Race’ | Response paper due |
-| 6 | Race and Medicine | &nbsp; |
-| 7 | Race and Ethnicity | Response paper due |
-| 8 | Kinds of Social Construction | Response paper due |
-| 9 | Intersectionality | &nbsp; |
-| 10 | Race and the Construction of Social Identity | Response paper due |
-| 11 | Gender and Race Constructions | Response paper due |
-| 12 | Racial Identities | &nbsp; |
-| 13 | Latina/o Identity and Race | &nbsp; |
-| 14 | Midterm Reflection | Project proposal due |
-| 15 | Panethnicity | &nbsp; |
-| 16 | Are Arabs a Race? | Response paper due |
-| {{< td-colspan 3 >}}**II. Racism**{{< /td-colspan >}} |||
-| 17 | Extrinsic, Intrinsic & Cultural Racisms | &nbsp; |
-| 18 | Racism in the Heart | Response paper due |
-| 19 | Oppression and Institutional Racism | Response paper due |
-| 20 | Equality and Social Justice | &nbsp; |
-| 21 | Equality and Respect | Response paper due |
-| 22 | Inter-culturation, Cultural Appropriation, and Commodity Fetishism | Draft of final paper due |
-| 23 | Screening: _[Free Angela and All Political Prisoners](http://www.imdb.com/title/tt2350432/?ref_=fn_al_tt_1)._ Directed by Shola Lynch. Color, 102 min. 2012. | &nbsp; |
-| 24 | Racial Profiling | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} Prisons {{< br >}}{{< br >}} _Note: This session was taught by guest lecturer Jerome Hodges_ {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | The Case for Reparations | &nbsp; |
-| 27 | Short Student Presentations | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. What, if anything, is race?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+A Tiny Slice of the History of the Concept of Race
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+"Our" Concept of Race
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Race Eliminativism
+
+Screening: _[RACE - The Power of an Illusion, Ep. 1: The Difference Between Us](http://www.pbs.org/race/000_About/002_04-about-01.htm)_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Appiah and the Meaning of ‘Race’
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Race and Medicine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Race and Ethnicity
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Kinds of Social Construction
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Intersectionality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Race and the Construction of Social Identity
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and Race Constructions
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Racial Identities
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Latina/o Identity and Race
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Reflection
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Panethnicity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Are Arabs a Race?
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Racism**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Extrinsic, Intrinsic & Cultural Racisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Racism in the Heart
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Oppression and Institutional Racism
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Equality and Social Justice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Equality and Respect
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Inter-culturation, Cultural Appropriation, and Commodity Fetishism
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Screening: _[Free Angela and All Political Prisoners](http://www.imdb.com/title/tt2350432/?ref_=fn_al_tt_1)._ Directed by Shola Lynch. Color, 102 min. 2012.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Racial Profiling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Prisons
+
+_Note: This session was taught by guest lecturer Jerome Hodges_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+The Case for Reparations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Short Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

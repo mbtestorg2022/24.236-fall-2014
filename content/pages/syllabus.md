@@ -57,18 +57,84 @@ Graduate students enrolled in the course will be expected to read both the requi
 Grading Policy for Undergraduates
 ---------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and leading discussion | 20% |
-| Ten response papers | 40% |
-| Research paper and presentation | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and leading discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ten response papers
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading Policy for Graduates
 ----------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final paper | 80% |
-| Class attendance and participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The class does not have a final examination. Please be aware **_that plagiarism of any kind will be severely punished_**, up to and including not only flunking the paper, but also having a letter placed in your file at the Institute. Plagiarism includes using another's arguments without acknowledging them, borrowing text wholesale, paraphrasing text in excessive quantity without attribution, borrowing someone else's arguments and merely rearranging them.
