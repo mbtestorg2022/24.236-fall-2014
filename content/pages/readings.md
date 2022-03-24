@@ -106,7 +106,7 @@ Bamshad, Michael J., and Steve E. Olsen. “[Does Race Exist?](http://www.scient
 Appiah and the Meaning of 'Race'
 {{< tdclose >}}
 {{< tdopen >}}
-Appiah, Anthony K. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Race, Culture, Identity: Misunderstood Connections." (PDF)](http://philpapers.org/archive/APPRCI.pdf) The Tanner Lectures on Human Values, delivered at University of California at San Diego, October 27 and 28, 1994. PhilPapers.
+Appiah, Anthony K. ["Race, Culture, Identity: Misunderstood Connections." (PDF)](http://philpapers.org/archive/APPRCI.pdf) The Tanner Lectures on Human Values, delivered at University of California at San Diego, October 27 and 28, 1994. PhilPapers.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ Inter-culturation, Cultural Appropriation, and Commodity Fetishism
 {{< tdopen >}}
 
 
-Mercer, Kobena. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Black Hair / Style Politics." (PDF)](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2012/09/kobena-mercer-blackhair.pdf) _New Formations_ 3 (1987): 33–54.
+Mercer, Kobena. ["Black Hair / Style Politics." (PDF)](http://www.blacklivesmattersyllabus.com/wp-content/uploads/2012/09/kobena-mercer-blackhair.pdf) _New Formations_ 3 (1987): 33–54.
 
 ### Recommended
 
@@ -486,7 +486,7 @@ _Note: This session was taught by guest lecturer Jerome Hodges_
 
 Alexander, Michelle. "Introduction." In _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_. The New Press, 2012. ISBN: 9781595586438.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Abolitionist Toolkit, Part 2: Information Sheets (PDF)](http://criticalresistance.org/wp-content/uploads/2012/06/Ab-Toolkit-Part-2.pdf). Critical Resistance.
+[The Abolitionist Toolkit, Part 2: Information Sheets (PDF)](http://criticalresistance.org/wp-content/uploads/2012/06/Ab-Toolkit-Part-2.pdf). Critical Resistance.
 
 ### Recommended
 
